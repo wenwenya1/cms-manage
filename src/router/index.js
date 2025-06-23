@@ -1,8 +1,7 @@
 // 关于路由的配置
 import Vue from "vue" // 为什么引入vue
 import Router from 'vue-router'
-import Layout from '@/Layout'
-import { component } from "vue/types/umd"
+import Layout from '@/layout'
 
 Vue.use(Router)
 

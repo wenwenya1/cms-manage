@@ -1,6 +1,7 @@
 <template>
   <div class="app-wrapper">
     <!-- 左部是一个侧边栏，可以封装为组件sidebar -->
+    <Sidebar />
 
   </div>
 </template>
